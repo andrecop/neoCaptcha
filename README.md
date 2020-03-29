@@ -1,2 +1,2 @@
 # neoCaptcha
-Opensoruce reCAPTCHA alternative written for Web 2.0
+Opensource reCAPTCHA alternative written for Web 2.0
